@@ -1,5 +1,6 @@
 Ruby on Rails Basic E-Commerce Platform, "Little Esty Shop"
-Admin and Merchants alike can view invoices, revenue, discounts, and manage all of the above through their personalized Dashboard.
+
+Admin and Merchants alike can view invoices, revenue, discounts, and manage the entirety of their storefront through their personalized Dashboard.
 
 This app was created to demonstrate the ability to utilize many different database relationships, and using CRUD functionality to build out a website to showcase it. 
 Every single method/link/view/api has been tested individually to ensure proper functionality.
